@@ -16,15 +16,23 @@
       "bundleIdentifier": "de.eltrex.ASMRApp",
       "developerName": "Eltrex",
       "subtitle": "Browse & download ASMR works",
-      "localizedDescription": "A modern iOS app for browsing, downloading, and managing ASMR works from japaneseasmr.com.\n\nFeatures:\n• Browse latest ASMR releases\n• Tag-based and keyword search\n• CV autocomplete with 2100+ voice actors\n• HLS stream downloads with M4A conversion\n• On-device translation (10 languages)\n• Organized library management",
+      "localizedDescription": "A modern iOS app for browsing, downloading, and managing ASMR works from japaneseasmr.com.\n\nFeatures:\n\u2022 Browse latest ASMR releases\n\u2022 Tag-based and keyword search\n\u2022 CV autocomplete with 2100+ voice actors\n\u2022 HLS stream downloads with M4A conversion\n\u2022 On-device translation (10 languages)\n\u2022 Organized library management\n\u2022 Cloudflare bypass with cookie persistence",
       "iconURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
       "tintColor": "6366F1",
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6.0",
+          "date": "2026-02-03",
+          "localizedDescription": "\u2022 Cloudflare bypass with WebView challenge\n\u2022 Cookie persistence (~11 months)\n\u2022 Session auto-refresh after verification\n\u2022 Cookie expiration display in Settings\n\u2022 Force re-verify option\n\u2022 Browser-like headers for all requests",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.6.0/ASMRApp.ipa",
+          "size": 2118595,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.5.0",
           "date": "2026-02-03",
-          "localizedDescription": "• Splash screen with preloading\n• CV autocomplete (2100+ voice actors)\n• Comprehensive cache display\n• Real-time cache updates\n• Simplified settings",
+          "localizedDescription": "\u2022 Splash screen with preloading\n\u2022 CV autocomplete (2100+ voice actors)\n\u2022 Comprehensive cache display\n\u2022 Real-time cache updates\n\u2022 Simplified settings",
           "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.5.0/ASMRApp.ipa",
           "size": 2083130,
           "minOSVersion": "26.0"
@@ -37,6 +45,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.6.0",
+      "date": "2026-02-03",
+      "title": "ASMR App v1.6.0 - Cloudflare Bypass!",
+      "caption": "Now works with Cloudflare-protected sites",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.5.0",
       "date": "2026-02-03",
