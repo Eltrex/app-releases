@@ -26,8 +26,8 @@
           "date": "2026-02-03",
           "localizedDescription": "• Splash screen with preloading\n• CV autocomplete (2100+ voice actors)\n• Comprehensive cache display\n• Real-time cache updates\n• Simplified settings",
           "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.5.0/ASMRApp.ipa",
-          "size": 2076672,
-          "minOSVersion": "17.0"
+          "size": 2083130,
+          "minOSVersion": "26.0"
         }
       ],
       "appPermissions": {
