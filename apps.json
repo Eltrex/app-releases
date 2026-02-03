@@ -22,6 +22,22 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6.1",
+          "date": "2026-02-03",
+          "localizedDescription": "\u2022 Fixed AltStore entitlement declaration\n\u2022 Cloudflare bypass with WebView challenge\n\u2022 Cookie persistence (~11 months)\n\u2022 Session auto-refresh after verification",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.6.1/ASMRApp.ipa",
+          "size": 2118463,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.6.1",
+          "date": "2026-02-03",
+          "localizedDescription": "\u2022 Fixed AltStore entitlement declaration\n\u2022 Cloudflare bypass with WebView challenge\n\u2022 Cookie persistence (~11 months)\n\u2022 Session auto-refresh after verification",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.6.1/ASMRApp.ipa",
+          "size": 2118463,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.6.0",
           "date": "2026-02-03",
           "localizedDescription": "\u2022 Cloudflare bypass with WebView challenge\n\u2022 Cookie persistence (~11 months)\n\u2022 Session auto-refresh after verification\n\u2022 Cookie expiration display in Settings\n\u2022 Force re-verify option\n\u2022 Browser-like headers for all requests",
@@ -50,10 +66,10 @@
   ],
   "news": [
     {
-      "identifier": "release-1.6.0",
+      "identifier": "release-1.6.1",
       "date": "2026-02-03",
-      "title": "ASMR App v1.6.0 - Cloudflare Bypass!",
-      "caption": "Now works with Cloudflare-protected sites",
+      "title": "ASMR App v1.6.1",
+      "caption": "Fixed AltStore entitlement declaration",
       "tintColor": "6366F1",
       "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
       "appID": "de.eltrex.ASMRApp",
