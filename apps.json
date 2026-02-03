@@ -39,7 +39,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          {
+            "name": "get-task-allow"
+          }
+        ],
         "privacy": {}
       }
     }
