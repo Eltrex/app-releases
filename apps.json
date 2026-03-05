@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.2",
+          "date": "2026-03-05",
+          "localizedDescription": "Metadata Refresh & Track Names\n\n• Auto-refresh metadata for all downloads on app update\n• Tracks now named 'Track 1', 'Track 2' instead of RJ code filenames\n• Progress indicator during metadata refresh",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.7.2/ASMRApp.ipa",
+          "size": 2148797,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.7.1",
           "date": "2026-03-05",
           "localizedDescription": "Bug Fix\n\n• Fixed CV name in Now Playing / lock screen showing too much text\n• Improved metadata extraction from page content",
@@ -55,6 +63,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.7.2",
+      "date": "2026-03-05",
+      "title": "ASMR App v1.7.2",
+      "caption": "Auto metadata refresh on update & improved track names",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.7.1",
       "date": "2026-03-05",
