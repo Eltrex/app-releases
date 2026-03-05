@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.1",
+          "date": "2026-03-05",
+          "localizedDescription": "Bug Fix\n\n• Fixed CV name in Now Playing / lock screen showing too much text\n• Improved metadata extraction from page content",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.7.1/ASMRApp.ipa",
+          "size": 2140009,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.7.0",
           "date": "2026-03-05",
           "localizedDescription": "Library Modernization\n\n• Card-style library layout with visual hierarchy\n• Sort library by date, name, or favorites\n• Context menus for item actions (long-press)\n• Rating badges (R-15, NSFW) on library items\n• Now Playing shows actual artist/title\n• Fixed tag count display bug\n• Improved circle name extraction",
@@ -47,6 +55,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.7.1",
+      "date": "2026-03-05",
+      "title": "ASMR App v1.7.1",
+      "caption": "Fixed CV name display in Now Playing",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.7.0",
       "date": "2026-03-05",
