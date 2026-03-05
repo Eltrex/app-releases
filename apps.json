@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.9.0",
+          "date": "2026-03-05",
+          "localizedDescription": "Enhanced Search UX\n\n• Collapsible Quick Filters — hide when results showing\n• Dynamic quick filters from server tags\n• Rating filter chips (All/SFW/R-15/NSFW/extreme)\n• Sort results: Relevance / Newest / Oldest\n• Result count with filter awareness\n• Inline recent search suggestions while typing\n• Search syntax hints (#tag, @voice actor)\n• Keyboard dismiss on scroll\n• Compact horizontal selected tags strip",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.9.0/ASMRApp.ipa",
+          "size": 2212352,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.8.0",
           "date": "2026-03-05",
           "localizedDescription": "Major UI Overhaul\n\n• Full Player: sleep timer, playback speed, track navigation\n• Auto-play next track for multi-track works\n• Search history and flow layout for tags\n• Work Detail: rating badge, publish date, favorites, share button\n• Settings: app version, storage size, metadata re-sync\n• Downloaded indicator on results\n• Swipe-to-delete always available\n• Haptic feedback throughout",
