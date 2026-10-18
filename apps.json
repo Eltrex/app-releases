@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.10.2",
+          "date": "2026-10-18",
+          "localizedDescription": "Search & status fixes\n\n• Fixed: tag suggestions overlapped the \"Search\" title\n• Settings now shows if the website is reachable (\"Working\") instead of always \"Not Verified\"",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.10.2/ASMRApp.ipa",
+          "size": 2216147,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.10.1",
           "date": "2026-10-18",
           "localizedDescription": "Verification fix & smoother scrolling\n\n• Fixed: the security verification popup kept reopening in Search\n• Typing # or @ now shows tags and voice actors right away\n• \"Verify\" button in Search if verification is needed again\n• Images are now decoded in the background – smoother scrolling",
@@ -95,6 +103,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.10.2",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.10.2",
+      "caption": "Search & status fixes",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.10.1",
       "date": "2026-10-18",
