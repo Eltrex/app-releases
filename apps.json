@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.27.1",
+          "date": "2026-10-18",
+          "localizedDescription": "Small cleanup update\n\n• Code cleanup: the app now builds without any compiler warnings\n• New build check script for development",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.27.1/ASMRApp.ipa",
+          "size": 2642091,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.27.0",
           "date": "2026-10-18",
           "localizedDescription": "Download notifications & auto-retry\n\n• Get a notification when a work has finished downloading – also when the app is in the background\n• Downloads that fail because of a connection problem retry automatically (up to 3 times)\n• \"Retry\" button on failed downloads and \"Retry All\" in the Library\n• Settings: turn download notifications on or off\n• Fixed: failed downloads could not be removed from the list",
@@ -263,6 +271,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.27.1",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.27.1",
+      "caption": "Small cleanup update",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.27.0",
       "date": "2026-10-18",

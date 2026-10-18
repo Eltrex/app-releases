@@ -20,6 +20,7 @@ Browse, download, and manage ASMR works.
 
 | Version | Date | Download |
 |---------|------|----------|
+| 1.27.1 | 2026-10-18 | [IPA](https://github.com/Eltrex/app-releases/releases/download/asmr-v1.27.1/ASMRApp.ipa) |
 | 1.27.0 | 2026-10-18 | [IPA](https://github.com/Eltrex/app-releases/releases/download/asmr-v1.27.0/ASMRApp.ipa) |
 | 1.26.0 | 2026-10-18 | [IPA](https://github.com/Eltrex/app-releases/releases/download/asmr-v1.26.0/ASMRApp.ipa) |
 | 1.25.0 | 2026-10-18 | [IPA](https://github.com/Eltrex/app-releases/releases/download/asmr-v1.25.0/ASMRApp.ipa) |
