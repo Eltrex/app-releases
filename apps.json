@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.10.0",
+          "date": "2026-10-18",
+          "localizedDescription": "Faster & smoother\n\n• App opens instantly, also offline\n• Auto-play next track fixed",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.10.0/ASMRApp.ipa",
+          "size": 2212784,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.9.0",
           "date": "2026-03-05",
           "localizedDescription": "Enhanced Search UX\n\n• Collapsible Quick Filters — hide when results showing\n• Dynamic quick filters from server tags\n• Rating filter chips (All/SFW/R-15/NSFW/extreme)\n• Sort results: Relevance / Newest / Oldest\n• Result count with filter awareness\n• Inline recent search suggestions while typing\n• Search syntax hints (#tag, @voice actor)\n• Keyboard dismiss on scroll\n• Compact horizontal selected tags strip",
@@ -79,6 +87,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.10.0",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.10.0",
+      "caption": "Faster & smoother",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.8.0",
       "date": "2026-03-05",
