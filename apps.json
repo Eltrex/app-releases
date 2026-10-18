@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.18.1",
+          "date": "2026-10-18",
+          "localizedDescription": "Voice actor fixes\n\n• Works with several voice actors show each one separately – tap any of them to search\n• \"More from …\" now works for works opened from NEW and Search too\n• One \"More from\" row per voice actor",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.18.1/ASMRApp.ipa",
+          "size": 2347326,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.18.0",
           "date": "2026-10-18",
           "localizedDescription": "New work page design\n\n• Work pages have a new, cleaner design (like the Library work page)\n• Tap an image to see it full screen and swipe through all images\n• Long descriptions are collapsed – tap \"Show more\" to read everything\n• \"In your Library\" shortcut if you already downloaded the work\n• Fixed: \"More from this voice actor\" now shows up",
@@ -175,6 +183,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.18.1",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.18.1",
+      "caption": "Voice actor fixes",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.18.0",
       "date": "2026-10-18",
