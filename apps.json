@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.12.0",
+          "date": "2026-10-18",
+          "localizedDescription": "Player on every tab\n\n• The mini player now stays visible on every tab – keep control while you browse\n• New floating mini player design\n• Track list in the player: see all tracks and jump to any of them",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.12.0/ASMRApp.ipa",
+          "size": 2218334,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.11.1",
           "date": "2026-10-18",
           "localizedDescription": "Unified search bar\n\n• Search and Library now share the same search bar and suggestion list\n• Search keyboard: no autocorrect, \"Search\" button",
@@ -119,6 +127,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.12.0",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.12.0",
+      "caption": "Player on every tab",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.11.1",
       "date": "2026-10-18",
