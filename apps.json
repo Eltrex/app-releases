@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.11.1",
+          "date": "2026-10-18",
+          "localizedDescription": "Unified search bar\n\n• Search and Library now share the same search bar and suggestion list\n• Search keyboard: no autocorrect, \"Search\" button",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.11.1/ASMRApp.ipa",
+          "size": 2210236,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.11.0",
           "date": "2026-10-18",
           "localizedDescription": "Favorites fix & cleaner design\n\n• Fixed: favorites were lost every time the app restarted\n• Same colors for ratings and tags on every screen\n• Favorites use a star everywhere\n• Tag suggestions and Quick Filters start with real tags instead of years\n• Stopping playback before deleting a work that is playing\n• Less background logging – a bit faster and lighter",
@@ -111,6 +119,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.11.1",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.11.1",
+      "caption": "Unified search bar",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.11.0",
       "date": "2026-10-18",
