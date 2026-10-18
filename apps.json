@@ -22,6 +22,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.18.2",
+          "date": "2026-10-18",
+          "localizedDescription": "\"More from\" fix\n\n• \"More from …\" now loads reliably for works opened from NEW and Search\n• Shows \"Loading…\", \"No other works found\" or a Retry button instead of staying empty",
+          "downloadURL": "https://github.com/Eltrex/app-releases/releases/download/asmr-v1.18.2/ASMRApp.ipa",
+          "size": 2352858,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.18.1",
           "date": "2026-10-18",
           "localizedDescription": "Voice actor fixes\n\n• Works with several voice actors show each one separately – tap any of them to search\n• \"More from …\" now works for works opened from NEW and Search too\n• One \"More from\" row per voice actor",
@@ -183,6 +191,16 @@
     }
   ],
   "news": [
+    {
+      "identifier": "release-1.18.2",
+      "date": "2026-10-18",
+      "title": "ASMR App v1.18.2",
+      "caption": "\"More from\" fix",
+      "tintColor": "6366F1",
+      "imageURL": "https://raw.githubusercontent.com/Eltrex/app-releases/main/icons/asmr-icon.png",
+      "appID": "de.eltrex.ASMRApp",
+      "notify": true
+    },
     {
       "identifier": "release-1.18.1",
       "date": "2026-10-18",
